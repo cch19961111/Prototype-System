@@ -14,7 +14,7 @@ public class ccc {public static void main(String[] args) {
 
         int i = 0;
         int j;
-int  action;
+int  actbbion;
 
         while (in.hasNextInt()) {
 
