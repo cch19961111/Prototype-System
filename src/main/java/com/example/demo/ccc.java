@@ -15,7 +15,7 @@ public class ccc {public static void main(String[] args) {
         int i = 0;
         int j;
 
-
+ //开发
         while (in.hasNextInt()) {
 
            int    a1= in.nextInt();
